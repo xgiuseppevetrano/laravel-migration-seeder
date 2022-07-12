@@ -7,6 +7,6 @@
     <title>Trains Database</title>
 </head>
 <body>
-    
+    @dump($trains)
 </body>
 </html>
